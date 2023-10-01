@@ -35,7 +35,7 @@ class Spielzuege extends Array {
 class Spielzustand {
   
   constructor(spielzustand) {
-    this.nSpalten = 20;
+    this.nSpalten = 10;
     this.nZeilen = 10;
     this.nSorten = 3;
     this.zellen = undefined;
