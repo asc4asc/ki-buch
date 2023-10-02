@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+  font: 1rem monospace;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  background-color: rgb(169, 255, 255);
+}
+
+canvas {
+  display: block;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+h1 {
+  font-size: 1.6rem;
+  margin: 5px;
+}
+
+label, input, select, button {
+  margin: 2px;
+}
+
+#labelschmal {
+  display: inline-block;
+  width: calc(85% - 4px);
+}
+
+label {
+  display: inline-block;
+  width: calc(100% - 4px);
+}
+
+select {
+  width: calc(15% - 4px);
+  height: 30px;
+}
+
+button {
+  width: calc(50% - 4px);
+  height: 50px;
+}
+
+#buttonbreithoch {
+  width: calc(100% - 4px);
+  height: 50px;
+}
+
+@media screen and (max-width: 499px) {
+  * {
+    max-width: 400px;
+  }
+}
+
+@media screen and (max-width: 399px) {
+  * {
+    max-width: 360px;
+  }
+}
