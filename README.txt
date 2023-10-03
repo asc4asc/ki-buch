@@ -8,12 +8,10 @@ Rheinwerk Computing | Bonn | 2023
 ISBN 978-3-8362-8467-7
 https://www.rheinwerk-verlag.de/kuenstliche-intelligenz-verstehen-eine-spielerische-einfuehrung-in-die-ki/
 
-Die Programme in diesem Verzeichnis sind auf dem Stand vom 23.11.2022. Wir empfehlen Ihnen _unbedingt_, die jeweils aktuellen Versionen zu verwenden.
+Der Fork der Programme in diesem Verzeichnis ist vom dem Stand vom 23.11.2022 abgezweigt. Wir empfehlen Ihnen _unbedingt_, die jeweils aktuellen Versionen zu verwenden.
 
 Auf der Webseite zu Buch können Sie alle Programme ohne Download und Installation per Mausklick im Browser starten. Hier können Sie auch den Code im Online-Editor anschauen und modifizieren. Wenn Sie keine Programmiererfahrung haben, sollten Sie zunächst _unbedingt_ diesen Weg wählen:
 https://www.maschinennah.de/ki-buch/
-
-Da einige Programme auf lokale Dateien zugreifen, können diese nicht durch bloßes Ausführen der index.html gestartet werden. Sie müssen also auf einem Server ausgeführt werden – bzw. in einer Entwicklungsumgebung, die einen Server simuliert.
 
 LIZENZ
 
