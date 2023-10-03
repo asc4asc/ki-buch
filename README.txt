@@ -1,4 +1,4 @@
-Achtung Fork nimm besser das Original!!!
+Achtung Fork nimm besser das Original!!! https://www.maschinennah.de/ki-buch/
 
 Dieses Verzeichnis enthält alle Beispielprogramme zum Buch
 
