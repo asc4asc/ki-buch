@@ -44,7 +44,7 @@ const GUI = {
     this.suchtiefeWaehler.option(8);
     this.suchtiefeWaehler.option(9);
     this.suchtiefeWaehler.option(10);
-    this.suchtiefeWaehler.value(3);
+    this.suchtiefeWaehler.value(6);
 
     // Button Neues Spiel starten
     this.neuesSpielButton = createButton("Spiel starten");
