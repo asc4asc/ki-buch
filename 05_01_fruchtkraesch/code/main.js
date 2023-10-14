@@ -26,6 +26,7 @@ function draw() {
       kiSpiel = false;
     }
     GUI.zeichne(spielzustand);
+    kiSpiel = false;
   }
 }
 
