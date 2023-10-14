@@ -31,7 +31,7 @@ const GUI = {
     this.seedWaehler.option(8);
     this.seedWaehler.option(9);
     this.seedWaehler.option(10);
-    this.seedWaehler.value(1);
+    this.seedWaehler.value(4);
 
     // Drop-Down Suchtiefe
     createElement("label", "Suchtiefe.....");
@@ -48,7 +48,7 @@ const GUI = {
     this.suchtiefeWaehler.option(12);
     this.suchtiefeWaehler.option(13);
     this.suchtiefeWaehler.option(14);
-    this.suchtiefeWaehler.value(6);
+    this.suchtiefeWaehler.value(3);
 
     // Button Neues Spiel starten
     this.neuesSpielButton = createButton("Spiel starten");
