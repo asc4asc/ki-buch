@@ -55,6 +55,6 @@ function neuesSpiel() {
 
 // Callback-Funktion für GUI.neuesSpielKIButton.mousePressed()
 function neuesSpielKI() {
-  neuesSpiel();
+  // neuesSpiel();
   kiSpiel = true;
 }
